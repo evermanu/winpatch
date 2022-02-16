@@ -2,50 +2,50 @@
 
 
 
-; 2022-01 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
+; 2022-02 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
 
-_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-x64_ae9f21e6bcae6274ea54ed380ab0a961aa7d6377.msu
+_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x64_7440cf608ff2a1fe46a71597140c3e32566a4082.msu
 
 
+; 2022-02 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 
-; 2022-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
-
-_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-x86_19ac6e71c2630f1fe80d78fcd7b2ea72350a5e27.msu
-
+_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x86_cabe61a0eebf053617ce422ffed936c0b2ca45e7.msu
 
 
 
+; 2022-02 适用于 Windows 8.1 基于 x64 系统的仅安全更新
 
-; 2022-01 适用于 Windows 8.1 基于 x64 系统的仅安全更新
-
-_only_8.1x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x64_9d5677ca5e865931bc908b13139bf266ccbf2922.msu
-
+_only_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-x64_0a97e05802268e3f3e0ae07de921f3c1e0c3009b.msu
 
 
-; 2022-01 适用于 Windows 8.1 基于 x86 系统的仅安全更新
+; 2022-02 适用于 Windows 8.1 基于 x86 系统的仅安全更新
 
-_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x86_0abd994a738f52e7afa8b2f59964c49fa3f9828e.msu
+_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-x86_f83e81097eec367b1d24bc07eac1846d7cbb394c.msu
 
 
 
-; 2022-01 Windows 10 1809 基于 x64 系统的累计更新
+; 2022-02 Windows 10 1809 基于 x64 系统的累计更新
 
-_1809x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009557-x64_ddc44e498763e16196d8a19dbf4ae54078d31c46.msu
+_1809x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows10.0-kb5010351-x64_f7ba53f4c410299fc28400f7a21b7f616f635a7c.msu
+
+
+; 2022-02 Windows 10 1809 基于 x86 系统的累计更新
+
+_1809x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010351-x86_1a64282be2ea037904c0e7cee9ef0dddbd06a9c4.msu
 
 
 
-; 2022-01 Windows 10 1809 基于 x86 系统的累计更新
+; 2022-适用于 Windows 10 Version 21H2 的 02 累积更新，适合基于 x86 的系统 
+_21H2x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows10.0-kb5010342-x86_dd8e3d6b2b8aa7e730fd017978a2124c74ecce99.msu
 
-_1809x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows10.0-kb5009557-x86_5e941e1eaebaf6f035bd4acf523217432d658510.msu
+; 2022-适用于 Windows 10 Version 21H2 的 02 累积更新，适合基于 x64 的系统 
+_21H2x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010342-x64_f865479b6847db1aab8d436a37a964f31c853887.msu
 
-; 2022-适用于 Windows 10 Version 21H2 的 01 累积更新，适合基于 x86 的系统 
-_21H2x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009543-x86_69e8ed8913acd957d9bd3ab9ccaf0eabeaeb7aea.msu
 
-; 2022-适用于 Windows 10 Version 21H2 的 01 累积更新，适合基于 x64 的系统 
-_21H2x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows10.0-kb5009543-x64_c7b660efcaaa2dd1d55fe91c5cea3d9b209a15cd.msu
 
-; 2022-适用于 Windows 10 Version 1607 的 01 累积更新，适合基于 x64 的系统
-_1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009546-x64_d3ab97e9f811d7bf19c268e5e6b5e00e92e110ed.msu
+; 2022-适用于 Windows 10 Version 1607 的 02 累积更新，适合基于 x64 的系统
+_1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010359-x64_f0b427c713754e50609ad0fa7054607a5d404f37.msu
 
-; 2022-适用于 Windows 10 Version 1607 的 01 累积更新，适合基于 x86 的系统
-_1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009546-x86_73496bd12a08c0c89ecddd92473d994a20a763d0.msu
+
+; 2022-适用于 Windows 10 Version 1607 的 02 累积更新，适合基于 x86 的系统
+_1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010359-x86_5c22e4ef70968c563c1880f912ddfa07c7fc4a36.msu
